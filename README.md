@@ -7,7 +7,7 @@
 
 ---
 ### Control Flow Graph
-![CFG](/SI_Lab2_183027/SI_Lab2_183027/Zadaca2.png)
+![CFG](/SI_Lab2_183027/Zadaca2.png)
 ---
 ### Цикломатска комплексност
 
